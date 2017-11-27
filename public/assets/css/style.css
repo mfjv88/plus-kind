@@ -1,0 +1,27 @@
+.nav-plus-kind {
+  margin-bottom: 0;
+}
+
+#jumbotron-plus-kind-index {
+  background-image: url('../images/seabay-HUGE.jpeg');
+  background-position: center;
+  background-size: cover;
+  height: 350px;
+  margin-bottom: 0;
+}
+
+#jumbotron-plus-kind-index h1 {
+  padding: 50px 0 0 0;
+}
+
+#jumbotron-plus-kind-step1 {
+  background-image: url('../images/seabay-HUGE.jpeg');
+  background-position: center;
+  background-size: cover;
+  height: 350px;
+}
+
+#jumbotron-plus-kind-step1 h1 {
+  padding: 50px 0 0 0;
+  color: white;
+}
